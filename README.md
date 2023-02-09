@@ -1,4 +1,4 @@
-# Projeto-individual-app-CSS :triangular_flag_on_post:
+# Projeto-individual-server-side/back-end :triangular_flag_on_post:
 
 :technologist:  O Projeto individual desse modulo consistiu em criar uma ferramenta no terminal que vai auxiliar
 desenvolvedores no dia a dia com CSS:
